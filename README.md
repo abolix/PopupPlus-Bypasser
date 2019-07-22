@@ -9,4 +9,4 @@ You should create database and put database details in /inc/database.php
 
 
 
-I'm will write the readme as soon as i have time . 
+I will write the readme as soon as i have time . 
